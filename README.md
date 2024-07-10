@@ -19,7 +19,7 @@ To achieve the business objectives.
 5.	Examine the region/country with highest demand for the products.
 6.	Provide detailed analysis of revenue generation over the months and years, and why the trends occur.
 ## Data Sources.
-	The datasets were made available by Tata group via the link *https://cdn.theforage.com/vinternships/companyassets/ifobHAoMjQs9s6bKS/5XsFFJu2oCLdmYJW2/1654309626143/Online%20Retail%20Data%20Set.xlsx*
+The datasets were made available by Tata group via the link *https://cdn.theforage.com/vinternships/companyassets/ifobHAoMjQs9s6bKS/5XsFFJu2oCLdmYJW2/1654309626143/Online%20Retail%20Data%20Set.xlsx*
 ### Customer data features:
 * Invoice number: Unique identifier given to each invoice assigned to a transaction.
 * Stock code: Unique identifier for each product available in stock.
