@@ -217,9 +217,14 @@ For better understanding, attached is a visualisation of the trend.
 
 # Insights
 
-Our analysis shows that store sales are impacted by seasonality which occurred in the last 4 months of the year. Increase in revenue started in the month of September with a 40% increase from August, while revenue remained constant in the first 8 months of the year. In the month of November, revenue peaked at $1.5m which is the highest for the year 2011.
+Our analysis shows that store sales are impacted by seasonality which occurred in the last 4 months of the year.
+Increase in revenue started in the month of September with a 40% increase from August, while revenue remained constant in the first 8 months of the year. In the month of November, revenue peaked at $1.5m which is the highest for the year 2011.
 
-Our analysis uncovered that most of the sales are in the European region with a few in the American regions. African and Asia have little demand of the product, alongside Russia Federation. Excluding the United Kingdom, European countries such as The Netherlands, Ireland, Germany, France, and Australia are generating high revenue for the company. Thus, business leaders should look to invest more into these countries to increase demand for products.
+Our analysis uncovered that most of the sales are in the European region with a few in the American regions. 
+African and Asia have little demand of the product, alongside Russia Federation. 
+
+Excluding the United Kingdom, European countries such as The Netherlands, Ireland, Germany, France, and Australia are generating high revenue for the company. 
+Thus, business leaders should look to invest more into these countries to increase demand for products.
 
 We demonstrated the absence of significant differences in the purchasing power of top 10 customers. We are able to show that the business is not relying on a few customers, showing that the business is in good position.
 
