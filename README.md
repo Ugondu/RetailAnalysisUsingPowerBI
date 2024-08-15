@@ -24,7 +24,6 @@
   - [Findings](#findings)
   - [Insights](#insights)
 - [Recommendations](#recommendations)
-- [Conclusion](#conclusion)
 
 
 
